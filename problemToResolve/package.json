@@ -1,0 +1,16 @@
+{
+  "name": "problemtoresolve",
+  "version": "1.0.0",
+  "description": "IHM pour afficher une liste de films ainsi que leur d‚tails ",
+  "main": "index.js",
+  "scripts": {
+    "server": "node node_modules/http-server/bin/http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassine Chebil",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^13.0.2",
+    "jquery": "^3.6.0"
+  }
+}

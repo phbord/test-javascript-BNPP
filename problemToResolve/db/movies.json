@@ -1,0 +1,20 @@
+[
+    {
+        "name": "The Avengers",
+        "abstract": "Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task.",
+        "director": 1,
+        "releaseDate": "25/04/2012"
+    },
+    {
+        "name": "Black Widow",
+        "abstract": "Natasha Romanoff, a former KGB spy, is shocked to find out that her ex handler, General Dreykov, is still alive. While evading capture by Taskmaster, she is forced to confront her dark past.",
+        "director": 2,
+        "releaseDate": "07/07/2021"
+    },
+    {
+        "name": "Avengers: Age of Ultron",
+        "abstract": "Tony Stark builds an artificial intelligence system named Ultron with the help of Bruce Banner. When the sentient Ultron makes plans to wipe out the human race, the Avengers set out to stop him.",
+        "director": 1,
+        "releaseDate": "22/04/2015"
+    }
+]
